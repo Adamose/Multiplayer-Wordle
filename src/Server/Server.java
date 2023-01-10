@@ -45,7 +45,7 @@ public class Server {
             System.out.println(ANSI_GREEN + "Creating New Lobby" + ANSI_RESET);
 
             //Getting lobby code from user
-            System.out.println("Enter Lobby Code");
+            System.out.println("Enter Lobby Code or \"q\" to close server");
             code = console.nextLine();
 
             //Checking if code is a quit event
