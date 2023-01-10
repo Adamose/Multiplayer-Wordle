@@ -10,10 +10,10 @@ To play a single player game, press the singleplayer button at the top of the me
 
 # Multiplayer
 
-Lauch the server in a terminal window, you will then be prompted to enter the lobby code (to be given to players) and the lobby size (chose between 2 or 3). To close the server, enter "q" when asked to enter a lobby code.
+Lauch the server in a terminal window, you will then be prompted to enter the lobby code (to be given to players) and the lobby size (chose between 2 or 3). To close the server, enter "q" when asked to enter a lobby code.  
 <img src="https://github.com/Adamose/Multiplayer-Wordle/blob/main/README%20Resources/Server1.png">
 
-To join a lobby, enter the server's ip adress and the lobby code the server admin chose as well as your username to be displayed to others.
+To join a lobby, enter the server's ip adress and the lobby code the server admin chose as well as your username to be displayed to others.  
 <img src="https://github.com/Adamose/Multiplayer-Wordle/blob/main/README%20Resources/Menu2.png" width="45%">
 
 # Two Player Game
