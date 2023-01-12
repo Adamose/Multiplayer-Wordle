@@ -4,7 +4,7 @@ Multiplayer version of the famous wordle game. Supports games of 1-3 players. Pr
 
 # Singleplayer
 
-To play a single player game, press the singleplayer button at the top of the menu.  
+To play a single player game, press the "PLAY" button at the top of the menu.  
 <img src="https://github.com/Adamose/Multiplayer-Wordle/blob/main/README%20Resources/Menu1.png" width="45%">
 <img src="https://github.com/Adamose/Multiplayer-Wordle/blob/main/README%20Resources/Singleplayer.gif" width="43%">
 
