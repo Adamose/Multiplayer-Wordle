@@ -1,4 +1,4 @@
-# Multiplayer-Wordle
+# Multiplayer Wordle
 
 Multiplayer version of the famous wordle game. Supports games of 1-3 players. Press escape at any time to return to the main menu.
 
